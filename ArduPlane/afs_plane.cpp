@@ -1,5 +1,5 @@
 /*
-  plane specific AP_AdvancedFailsafe class
+  lane specific AP_AdvancedFailsafe class
  */
 
 #include "Plane.h"
